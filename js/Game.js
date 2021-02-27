@@ -26,10 +26,10 @@ class Game {
       form = new Form()
       form.display();
     }
-    car1 = createSprite(200,400)
-    car2 = createSprite(300,400)
-    car3 = createSprite(400,400)
-    car4 = createSprite(500,400)
+    car1 = createSprite(200,200)
+    car2 = createSprite(300,200)
+    car3 = createSprite(400,200)
+    car4 = createSprite(500,200)
     cars = [car1,car2,car3,car4]
   }
 
